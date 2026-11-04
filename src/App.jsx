@@ -1452,7 +1452,7 @@ export default function App() {
                     <span>ENGINE v1.2.1</span>
                     <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
                   </span>
-                  <span className="text-xs text-emerald-400 font-semibold shrink-0">+$33.9K (+33.4% ROI)</span>
+                  <span className="text-xs text-emerald-400 font-semibold shrink-0">+$135.6K (+72.0% ROI)</span>
                 </div>
                 <span className="text-base sm:text-lg text-white group-hover:text-emerald-300 transition-colors">
                   Production Engine: Backtest Analytics →
